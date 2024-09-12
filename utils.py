@@ -9,7 +9,7 @@ def dot_product(v1, v2):
     # Hint: use `np.dot`.
     '''
     return np.dot(v1, v2)
-    
+    sdfsdfsd 
 def cosine_similarity(v1, v2):
     '''
     v1 and v2 are vectors of same shape.
